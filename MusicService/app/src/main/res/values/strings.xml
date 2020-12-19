@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MusicService</string>
+
+    <string-array name="titles">
+        <item>Bad guy</item>
+        <item>7 rings</item>
+        <item>Faded</item>
+        <item>Alone</item>
+    </string-array>
+
+    <string-array name="artists">
+        <item>Billie Eilish</item>
+        <item>Ariana Grande</item>
+        <item>Alan Walker</item>
+        <item>Alan Walker</item>
+    </string-array>
+
+    <string-array name="links">
+        <item>1y-KflfrCJvqNIKna6z8oXFBx2agehf9Y</item>
+        <item>1MOBTYp5Cd6PlowTGClPRq1QBOnMJjH-5</item>
+        <item>1-aG6rzZUPdRcMwZzvAwVoD4QHve_oEmd</item>
+        <item>1EfpArTZ3nNr2nTyvbH_P_jUSo4jmJt3y</item>
+    </string-array>
+</resources>
