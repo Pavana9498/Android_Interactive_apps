@@ -1,0 +1,3 @@
+This project has two applications, Music central and Music client.
+Music central stored information about n songs(e.g: title, artist name, a picture, a URL for audio file) and exposes a service api that supports functionality for downloading information about each song.
+Music client consists of an activity that supports functionality for using music central app by starting and binding to its service. The user can view information about song, download it and play it using media player service once the activity bounds with the music central service. The commands int the main activity of this app are enabled and disabled appropriately depending on whether the activity is bound to the service or not.
